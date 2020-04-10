@@ -2137,32 +2137,32 @@ Format:
     <message>
         <location filename="../decodedtext.cpp" line="27"/>
         <source>partial loss of data</source>
-        <translation type="unfinished"></translation>
+        <translation>部分数据丢失</translation>
     </message>
     <message>
         <location filename="../decodedtext.cpp" line="28"/>
         <source>ALLCALL7.TXT is too short or broken?</source>
-        <translation type="unfinished"></translation>
+        <translation>ALLCALL7.TXT 太短或破损?</translation>
     </message>
     <message>
         <location filename="../decodedtext.cpp" line="29"/>
         <source>nQSOProgress</source>
-        <translation type="unfinished"></translation>
+        <translation>通联进度</translation>
     </message>
     <message>
         <location filename="../decodedtext.cpp" line="30"/>
         <source>input signal low rms</source>
-        <translation type="unfinished"></translation>
+        <translation>输入信号均方根值低</translation>
     </message>
     <message>
         <location filename="../decodedtext.cpp" line="31"/>
         <source>audio gap detected</source>
-        <translation type="unfinished"></translation>
+        <translation>检测到音频间隙</translation>
     </message>
     <message>
         <location filename="../decodedtext.cpp" line="32"/>
         <source>nfqso is out of bandwidth</source>
-        <translation type="unfinished"></translation>
+        <translation>标准通联的带宽不足</translation>
     </message>
 </context>
 <context>
@@ -2304,12 +2304,12 @@ Error: %2 - %3</source>
     <message>
         <location filename="../SampleDownloader/Directory.cpp" line="298"/>
         <source>Network Error</source>
-        <translation type="unfinished">网络出错误</translation>
+        <translation>网络出错误</translation>
     </message>
     <message>
         <location filename="../SampleDownloader/Directory.cpp" line="298"/>
         <source>Authentication required</source>
-        <translation type="unfinished"></translation>
+        <translation>需要认证</translation>
     </message>
 </context>
 <context>
@@ -2861,7 +2861,7 @@ Error: %2 - %3</source>
         <location filename="../logqso.ui" line="82"/>
         <location filename="../logqso.ui" line="114"/>
         <source>dd/MM/yyyy HH:mm:ss</source>
-        <translation>dd/MM/yyyy HH:mm:ss</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../logqso.ui" line="98"/>
@@ -4010,7 +4010,7 @@ list. The list can be maintained in Settings (F2).</source>
     <message>
         <location filename="../mainwindow.ui" line="4668"/>
         <source>None</source>
-        <translation>不储存</translation>
+        <translation>不保存</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="4676"/>
@@ -4318,12 +4318,12 @@ list. The list can be maintained in Settings (F2).</source>
     <message>
         <location filename="../mainwindow.ui" line="5204"/>
         <source>0  Call None</source>
-        <translation>0  没有选择</translation>
+        <translation>0  手动选择</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="5212"/>
         <source>1  Call first</source>
-        <translation>1  优先呼叫</translation>
+        <translation>1  呼叫首先解码</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="5220"/>
@@ -4651,7 +4651,7 @@ list. The list can be maintained in Settings (F2).</source>
     <message>
         <location filename="../mainwindow.cpp" line="1863"/>
         <source>Error in SoundOutput</source>
-        <translation>声音输出错误误</translation>
+        <translation>声音输出错误</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="1949"/>
@@ -5065,22 +5065,22 @@ UDP 服务器 %2:%3</translation>
     <message>
         <location filename="../Configuration.cpp" line="5034"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished">删除&amp;D</translation>
+        <translation>删除&amp;D</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5035"/>
         <source>&amp;Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>重新命名&amp;R</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5036"/>
         <source>Show &amp;hidden files</source>
-        <translation type="unfinished"></translation>
+        <translation>显示隐藏文件&amp;h</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5037"/>
         <source>&amp;New Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>新建文件夹&amp;N</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5038"/>
@@ -5421,7 +5421,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../soundin.cpp" line="72"/>
         <source>Requested input audio format is not supported on device.</source>
-        <translation>设备不支持请求的输入音频格式.</translation>
+        <translation>设备不支持请求输入的音频格式.</translation>
     </message>
     <message>
         <location filename="../soundin.cpp" line="93"/>
@@ -5489,7 +5489,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../soundout.cpp" line="51"/>
         <source>Requested output audio format is not supported on device.</source>
-        <translation>设备上不支持请求的输出音频格式.</translation>
+        <translation>设备不支持请求输出的音频格式.</translation>
     </message>
     <message>
         <location filename="../soundout.cpp" line="114"/>
